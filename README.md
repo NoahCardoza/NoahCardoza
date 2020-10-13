@@ -1,6 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=NoahCardoza&show_icons=true&hide_border=true"/>
 
-
+-  ✨ Currently in the Externship program at MLH.
+-  ✨ As well as the Open Source program at MLH.
 
 <!--
 **NoahCardoza/NoahCardoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
